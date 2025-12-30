@@ -37,8 +37,8 @@ def BalancedPerformanceScore(array1: list[int], array2: list[int]):
 scoresA = [1, 3]
 scoresB = [2]
 # ------------------
-# scoresA = [1, 2]
-# scoresB = [3, 4]
+scoresA = [1, 2,]
+scoresB = [3, 4]
 print(BalancedPerformanceScore(scoresA, scoresB))
 # Output1: 2.0
 # Output2: 2.5
